@@ -1,0 +1,32 @@
+{
+  "filterTypes": [
+    {
+      "filterName": "Account Name",
+      "filterType": "accountName",
+      "filters":
+        {
+          "savingsAccount": "Savings Account",
+          "checkingAccount": "Checking Account",
+          "autoLoanAccount": " Auto Loan Account",
+          "creditAccountAccount": "Credit Card Account",
+          "investmentAccount": "Investment Account",
+          "personalLoanAccount": "Personal Loan Account",
+          "moneyMarketAccount": "Money Market Account",
+          "homeLoanAccount": "Home Loan Account"
+        }
+
+    },
+    {
+      "filterName": "Transaction Type",
+      "filterType": "transactionType",
+      "filters":
+        {
+          "deposit": "deposit",
+          "withdrawal": "withdrawal",
+          "invoice": "invoice",
+          "payment": "payment"
+        }
+
+    }
+  ]
+}
