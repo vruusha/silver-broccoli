@@ -1,9 +1,8 @@
 # silver-broccoli
 
 This project demonstrates the usage of ReactJs and mobx
-For deploymnet I am suing webpack 4
+For deploymnet I am using webpack 4
 You would need nodejs and npm to run this project
-
 I am using node v8.11 and npm v5
 
 Follow this link to install node and npm
