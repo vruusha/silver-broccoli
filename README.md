@@ -10,7 +10,7 @@ Follow this link to install node and npm
 https://www.npmjs.com/get-npm
 
 After the initial set up:
-1. Go to the proejct root folder
+1. Go to the proejct root folder and open a terminal
 2.run 'npm install'
 3.run 'npm run start'
 
