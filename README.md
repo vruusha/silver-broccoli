@@ -11,8 +11,8 @@ https://www.npmjs.com/get-npm
 
 After the initial set up:
 1. Go to the proejct root folder and open a terminal
-2.run 'npm install'
-3.run 'npm run start'
+2.execute the command 'npm install'
+3.execute the command 'npm run start'
 
 This would start a dev server at port 5000
 
