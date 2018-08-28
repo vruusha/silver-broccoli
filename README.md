@@ -1,4 +1,4 @@
 # silver-broccoli
 
-this project demonstrates the usage of ReactJs and mobx
-You would need node and npm to run this project
+This project demonstrates the usage of ReactJs and mobx
+You would need nodejs and npm to run this project
